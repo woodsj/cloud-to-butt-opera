@@ -64,7 +64,7 @@
         v = v.replace(/\bTSA agent\b/g, "scrotum fondler");
         v = v.replace(/\bSocial justice blogger\b/g, "Pompous Ass");
         v = v.replace(/\bsocial justice blogger\b/g, "pompous ass");
-        v = v.replace(/\bKieth Alexander\b/g, "Zod");
+        v = v.replace(/\bKeith Alexander\b/g, "Zod");
         v = v.replace(/\bNSA\b/g, "Scooby-Doo");
 
         textNode.nodeValue = v;
