@@ -5,7 +5,7 @@ Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panic
 
 ## Installing
 
-Download [CloudToButtXKCDEditionOpera.oex](https://github.com/woodsj/cloud-to-butt-xkcd-edition-opera/blob/master/CloudToButt.oex?raw=true)
+Download [CloudToButtXKCDEditionOpera.oex](https://github.com/woodsj/cloud-to-butt-xkcd-edition-opera/releases/download/Final/cloud-to-butt-xkcd-edition-opera.oex)
 
 
 ## Building
