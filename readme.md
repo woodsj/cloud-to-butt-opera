@@ -1,4 +1,4 @@
-# cloud-to-butt-xkcd-edition-opera
+# Cloud-to-Butt - xkcd Edition - opera
 
 Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension, Randall Munroe's XKCD #1288, and a facebook conversation regarding airport security overreacharound.
 
