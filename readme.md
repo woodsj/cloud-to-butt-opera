@@ -1,11 +1,11 @@
-# cloud-to-butt-opera
+# cloud-to-butt-xkcd-edition-opera
 
 Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
 
 
 ## Installing
 
-Download [CloudToButt.oex](https://github.com/DaveRandom/cloud-to-butt-opera/blob/master/CloudToButt.oex?raw=true)
+Download [CloudToButtXKCDEditionOpera.oex](https://github.com/woodsj/cloud-to-butt-xkcd-edition-opera/blob/master/CloudToButt.oex?raw=true)
 
 
 ## Building
