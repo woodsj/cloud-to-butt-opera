@@ -60,12 +60,13 @@
         v = v.replace(/\bElection\b/g, "Eating Contest");
         v = v.replace(/\belection\b/g, "eating contest");
         v = v.replace(/\bcould not be reached for comment\b/g, "is guilty and everyone knows it");
-        v = v.replace(/\bTSA Agent\b/g, "Scrotum Fondler");
-        v = v.replace(/\bTSA agent\b/g, "scrotum fondler");
-        v = v.replace(/\bSocial justice blogger\b/g, "Pompous Ass");
-        v = v.replace(/\bsocial justice blogger\b/g, "pompous ass");
+        v = v.replace(/\bTSA Agent\b/g, "Scrote Grabber");
+        v = v.replace(/\bTSA agent\b/g, "scrote grabber");
+        v = v.replace(/\bSocial justice\b/g, "Circlejerk");
+        v = v.replace(/\bsocial justice\b/g, "circlejerk");
         v = v.replace(/\bKeith Alexander\b/g, "Zod");
-        v = v.replace(/\bNSA\b/g, "Scooby-Doo");
+        v = v.replace(/\bNSA\b/g, "Scooby-Doo Detective Agency");
+        v = v.replace(/\bN.S.A.\b/g, "Scooby-Doo Detective Agency");
 
         textNode.nodeValue = v;
     }
