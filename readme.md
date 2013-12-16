@@ -1,6 +1,6 @@
-# Cloud-to-Butt - xkcd Edition - opera
+# Cloud-to-Butt - xkcd Edition - Opera 12.x
 
-Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension, Randall Munroe's XKCD #1288, and a facebook conversation regarding airport security overreacharound.
+Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension, Randall Munroe's XKCD #1288, and a facebook conversation regarding airport security overreacharound. NOTE: This is for the old Presto-based Opera, and as such will not work on Opera 15+.
 
 
 ## Installing
